@@ -2,3 +2,4 @@
 Testing Pair badge
 Tier upgrade commit 1
 Tier upgrade commit 2
+Tier upgrade commit 3
